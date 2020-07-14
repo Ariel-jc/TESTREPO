@@ -1,0 +1,14 @@
+Package: com.DarkRetro.OrangeTheory
+Name: DarkRetro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A streamlined Dark Mode Retro Theme
+Maintainer: OrangeTheoryEnquiries@gmail.com
+Author: OrangeTheoryEnquiries@gmail.com
+Section: Theme
+Depends: 
+Filename: debs/DarkRetro.deb
+Size: 2,926,588
+MD5sum: e1c588d44d0d18418ed85953ed8e5c3a
+SHA1: 58307c42c60ff4842b94d6247eb5d999624de1b3
+SHA256: b6eda33e77cd85c078962e9477ace5e41a6b7f3b1dbd211ef405e309ef3fe321
